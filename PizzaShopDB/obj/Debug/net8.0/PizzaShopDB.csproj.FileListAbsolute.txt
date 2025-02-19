@@ -1,0 +1,15 @@
+D:\OLD PC\dotnet\Training\PizzaShop\PizzaShopDB\bin\Debug\net8.0\PizzaShopDB.deps.json
+D:\OLD PC\dotnet\Training\PizzaShop\PizzaShopDB\bin\Debug\net8.0\PizzaShopDB.runtimeconfig.json
+D:\OLD PC\dotnet\Training\PizzaShop\PizzaShopDB\bin\Debug\net8.0\PizzaShopDB.dll
+D:\OLD PC\dotnet\Training\PizzaShop\PizzaShopDB\bin\Debug\net8.0\PizzaShopDB.pdb
+D:\OLD PC\dotnet\Training\PizzaShop\PizzaShopDB\obj\Debug\net8.0\PizzaShopDB.csproj.AssemblyReference.cache
+D:\OLD PC\dotnet\Training\PizzaShop\PizzaShopDB\obj\Debug\net8.0\PizzaShopDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\OLD PC\dotnet\Training\PizzaShop\PizzaShopDB\obj\Debug\net8.0\PizzaShopDB.AssemblyInfoInputs.cache
+D:\OLD PC\dotnet\Training\PizzaShop\PizzaShopDB\obj\Debug\net8.0\PizzaShopDB.AssemblyInfo.cs
+D:\OLD PC\dotnet\Training\PizzaShop\PizzaShopDB\obj\Debug\net8.0\PizzaShopDB.csproj.CoreCompileInputs.cache
+D:\OLD PC\dotnet\Training\PizzaShop\PizzaShopDB\obj\Debug\net8.0\PizzaShopDB.sourcelink.json
+D:\OLD PC\dotnet\Training\PizzaShop\PizzaShopDB\obj\Debug\net8.0\PizzaShopDB.dll
+D:\OLD PC\dotnet\Training\PizzaShop\PizzaShopDB\obj\Debug\net8.0\refint\PizzaShopDB.dll
+D:\OLD PC\dotnet\Training\PizzaShop\PizzaShopDB\obj\Debug\net8.0\PizzaShopDB.pdb
+D:\OLD PC\dotnet\Training\PizzaShop\PizzaShopDB\obj\Debug\net8.0\PizzaShopDB.genruntimeconfig.cache
+D:\OLD PC\dotnet\Training\PizzaShop\PizzaShopDB\obj\Debug\net8.0\ref\PizzaShopDB.dll
