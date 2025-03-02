@@ -7527,24 +7527,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pca217\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Siddharth\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OLD PC\\dotnet\\Training\\PizzaShop\\PizzaShop\\PizzaShop.csproj",
+      "projectUniqueName": "D:\\TATVASOFT\\PROJECTS\\PizzaShop\\PizzaShop\\PizzaShop.csproj",
       "projectName": "PizzaShop",
-      "projectPath": "D:\\OLD PC\\dotnet\\Training\\PizzaShop\\PizzaShop\\PizzaShop.csproj",
-      "packagesPath": "C:\\Users\\pca217\\.nuget\\packages\\",
-      "outputPath": "D:\\OLD PC\\dotnet\\Training\\PizzaShop\\PizzaShop\\obj\\",
+      "projectPath": "D:\\TATVASOFT\\PROJECTS\\PizzaShop\\PizzaShop\\PizzaShop.csproj",
+      "packagesPath": "C:\\Users\\Siddharth\\.nuget\\packages\\",
+      "outputPath": "D:\\TATVASOFT\\PROJECTS\\PizzaShop\\PizzaShop\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\pca217\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Siddharth\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7552,15 +7547,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\OLD PC\\dotnet\\Training\\PizzaShop\\PizzaShopDB\\PizzaShopDB.csproj": {
-              "projectPath": "D:\\OLD PC\\dotnet\\Training\\PizzaShop\\PizzaShopDB\\PizzaShopDB.csproj"
+            "D:\\TATVASOFT\\PROJECTS\\PizzaShop\\PizzaShopDB\\PizzaShopDB.csproj": {
+              "projectPath": "D:\\TATVASOFT\\PROJECTS\\PizzaShop\\PizzaShopDB\\PizzaShopDB.csproj"
             }
           }
         }
@@ -7569,11 +7563,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -7620,7 +7609,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

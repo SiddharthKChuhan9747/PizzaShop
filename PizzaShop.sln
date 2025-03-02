@@ -3,31 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaShop", "PizzaShop\PizzaShop.csproj", "{BF019006-53C4-48C0-8D15-9BDC85C13B4B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{535A9714-8399-445B-9644-0E45652D2705}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaShopDB", "PizzaShopDB\PizzaShopDB.csproj", "{37A8F369-5039-491C-AB89-66B5E1DDEBC3}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiGateway", "ApiGateway", "{1FBFAEFA-261D-43D8-AD3F-E3251C0B0A0C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaShopDomain", "PizzaShopDomain\PizzaShopDomain.csproj", "{414B695A-8BDD-4D90-A0DC-62C2E2DDAA21}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Helper", "Helper", "{AB0FD996-ACE4-4FFF-9409-1362D8FCB2B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{CEC695C5-F604-4976-A7ED-2E5059379FB6}"
 EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BF019006-53C4-48C0-8D15-9BDC85C13B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BF019006-53C4-48C0-8D15-9BDC85C13B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BF019006-53C4-48C0-8D15-9BDC85C13B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BF019006-53C4-48C0-8D15-9BDC85C13B4B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{37A8F369-5039-491C-AB89-66B5E1DDEBC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{37A8F369-5039-491C-AB89-66B5E1DDEBC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{37A8F369-5039-491C-AB89-66B5E1DDEBC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{37A8F369-5039-491C-AB89-66B5E1DDEBC3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{414B695A-8BDD-4D90-A0DC-62C2E2DDAA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{414B695A-8BDD-4D90-A0DC-62C2E2DDAA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{414B695A-8BDD-4D90-A0DC-62C2E2DDAA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{414B695A-8BDD-4D90-A0DC-62C2E2DDAA21}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
